@@ -1,0 +1,6 @@
+
+.cproject
+.project
+bin/*
+obj/*
+reports/*
